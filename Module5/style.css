@@ -1,0 +1,12 @@
+.center {
+    text-align:center;
+}
+.styledFont{
+    color:green;
+    font-size: large;
+}
+#styledImage{
+ border-color: orange;
+ border-style: solid;
+ border-width: thick;
+}

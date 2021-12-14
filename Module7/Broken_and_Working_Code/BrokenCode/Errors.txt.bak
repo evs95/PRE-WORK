@@ -1,0 +1,11 @@
+Errors identified
+
+* <h1> missing for heading
+* <p> tags missing in About Boo
+* '<' missed for img tag
+* Loading incorrect js errors -> logic
+* Array "" correction
+* <li> tags missing in ol
+* ids for color buttons
+* "" missing for pink color
+* "" missed for click on grow and shrink buttons 
